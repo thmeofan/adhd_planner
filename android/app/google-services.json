@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "571106756266",
+    "project_id": "adhd-planner-project",
+    "storage_bucket": "adhd-planner-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:571106756266:android:513e01e65bc7cc61b172d3",
+        "android_client_info": {
+          "package_name": "com.example.adhd_planner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "571106756266-74cheqru9ooajgntlt10a04aj9fi2scr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsb8pdWpSyotLC8ExDYBNT5yN2exgLF5Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "571106756266-74cheqru9ooajgntlt10a04aj9fi2scr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "571106756266-qqji7s6q338qq9hfifb2fhsk3d4ccclb.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.adhdPlanner"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
